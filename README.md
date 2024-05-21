@@ -188,6 +188,7 @@ plt.title('Principal Component Analysis (PCA) Visualization')
 plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.tight_layout()
 plt.show()
+```
 <img width="1023" alt="Screenshot 2024-05-21 at 7 48 39 AM" src="https://github.com/rajrohit10/pca/assets/42783861/657d298f-9f54-4b26-94e6-e0896f767925">
 
 
